@@ -1,0 +1,23 @@
+
+dans index ; SA-R2-A10
+
+Spot ; SA-R2-A10
+
+mac : 00:01:2e:79:48:3f
+
+Ip : 10.1.12.181
+
+hashrate ; 9.23 Mh/s
+
+nom client ;d.kertesz
+
+
+
+
+
+
+
+
+
+
+
