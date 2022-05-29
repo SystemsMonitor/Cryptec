@@ -11,6 +11,7 @@ hashrate ; 9.23 Mh/s
 
 nom client ;d.kertesz
 
+&amp;!page.active}" class="pagination-page ng-scope active"
 
 
 
